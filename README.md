@@ -17,7 +17,7 @@
 
 |프로젝트|기간|링크|
 |---|---|---|
-|Scrapping|2018.07.06~2018.09.15|
+|Scrapping|2018.07.06~2018.09.15|https://github.com/Whiletrue607/weatherdata|
 
 - 스터디
 
